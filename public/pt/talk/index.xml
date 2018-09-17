@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks on </title>
+    <link>/pt/talk/</link>
+    <description>Recent content in Recent &amp; Upcoming Talks on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <copyright>&amp;copy; DES-UFLA 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/pt/talk/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Documentos dinâmicos: analise dados e relate resultados</title>
+      <link>/pt/talk/semanest-ufpr2017/</link>
+      <pubDate>Fri, 09 Jun 2017 00:00:00 -0300</pubDate>
+      
+      <guid>/pt/talk/semanest-ufpr2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

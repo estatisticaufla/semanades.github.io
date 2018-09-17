@@ -1,0 +1,35 @@
+---
+title: Minicursos
+author: ''
+date: []
+slug: minicursos
+categories: []
+tags: []
+header:
+  caption: ''
+  image: ''
+---
+
+Seg. (15/10): 
+8h - 11h: Expressões Regulares para Preparação de Base de Dados - Prof. Cristian Arantes - UFSC  
+13h - 17h: Introdução a Machine Learning com R (português) - Prof. Paulo Henrique Sales Guimarães - UFLA
+
+
+Ter. (16/10)
+8h - 11h: Introdução ao LaTeX - Prof. Daniel Furtado Ferreira - UFLA
+14h - 17h: Expressões Regulares para Preparação de Base de Dados - Prof. Cristian Arantes - UFSC 
+
+Qua. (17/10)
+9h:  An Intuitive Approach to Machine Learning: Boosting, Nearest Neighbors, Random Forests and Support Vector Machines - Prof. Andreas Ziegler
+
+Qui. (18/10)
+8h - 12h: Python para usuários de R - Profs. Patricia de Siqueira Ramos e Lincoln Frias - Unifal
+14h - 17h: Git e Github para iniciantes - Walef Machado - Unifal
+
+Sex. (19/10)
+8h: Documentos Dinâmicos usando o R Markdown - Kelly Pereira de Lima - UFLA
+
+Sex. (19/10)
+14h: Modelagem de dados complexos: uma introdução aos GAMLSS" - Luiz Ricardo Nakamura - UFSC. (Sexta - feira 14 às 18 horas e sábado - 08 às 12 horas).
+
+

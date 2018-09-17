@@ -1,0 +1,21 @@
+# Theme metadata
+name = "Leg Colors"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#F78028"
+primary_light = "#FFB27A"
+primary_dark = "#A54600"
+
+# Menu
+menu_primary = "#fff"
+menu_text = "#F78028"
+menu_text_active = "#A54600"
+menu_title = "#2b2b2b"
+menu_hover = "#dcdcdc"
+
+# Home sections
+home_section_odd = "rgb(255, 255, 255)"
+home_section_even = "rgb(237, 237, 237)"

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on </title>
+    <link>/en/publication/</link>
+    <description>Recent content in Publications on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; DES-UFLA 2018</copyright>
+    <lastBuildDate>Mon, 29 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/en/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Reparametrization of COM-Poisson Regression Models with Applications in the Analysis of Experimental Count Data</title>
+      <link>/en/publication/smj2018/</link>
+      <pubDate>Mon, 29 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/en/publication/smj2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reparametrização dos Modelos de Regressão COM-Poisson com Aplicações na Análise de Dados de Contagem Experimentais</title>
+      <link>/en/publication/rbras2017/</link>
+      <pubDate>Sat, 22 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/en/publication/rbras2017/</guid>
+      <description>Apresentação oral de trabalho completp na In 62ª Reunião Anual da RBras e 17º SEAGRO.</description>
+    </item>
+    
+    <item>
+      <title>Extensões e aplicações dos modelos de regressão COM-Poisson</title>
+      <link>/en/publication/monograph2016/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/en/publication/monograph2016/</guid>
+      <description>Monografia escrita como parte dos requisitos para obtenção do grau de bacharel em Estatística pela Universidade Federal do Paraná. Orientador Walmes Marques Zeviani.</description>
+    </item>
+    
+  </channel>
+</rss>

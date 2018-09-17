@@ -1,0 +1,146 @@
+# Navigation
+
+- id: toggle_navigation
+  translation: Alterar navegação
+
+- id: table_of_contents
+  translation: Conteúdo
+
+# General
+
+- id: related
+  translation: Relacionado
+
+- id: minute_read
+  translation: min de leitura
+
+- id: previous
+  translation: Anterior
+
+- id: next
+  translation: Próximo
+
+# Buttons
+
+- id: btn_preprint
+  translation: Preprint
+
+- id: btn_pdf
+  translation: PDF
+
+- id: btn_cite
+  translation: Cite
+
+- id: btn_slides
+  translation: Slides
+
+- id: btn_video
+  translation: Vídeo
+
+- id: btn_code
+  translation: Código
+
+- id: btn_dataset
+  translation: Dados
+
+- id: btn_project
+  translation: Projeto
+
+- id: btn_poster
+  translation: Pôster
+
+- id: btn_source
+  translation: Arquivos fonte
+
+- id: btn_copy
+  translation: Cópia
+
+- id: btn_download
+  translation: Download
+
+# About widget
+
+- id: interests
+  translation: Interesses
+
+- id: education
+  translation: Formação
+
+# Publications widget
+
+- id: more_publications
+  translation: Mais Publicações
+
+# Posts widget
+
+- id: continue_reading
+  translation: CONTINUE LENDO
+
+- id: more_posts
+  translation: Mais Posts
+
+# Talks widget
+
+- id: more_talks
+  translation: Mais Palestras
+
+# Publication/Talk details
+
+- id: abstract
+  translation: Resumo
+
+- id: publication
+  translation: Publicação
+
+- id: publication_type
+  translation: Tipo
+
+- id: date
+  translation: Data
+
+- id: last_updated
+  translation: Última atualização em
+
+- id: links
+  translation: Links
+
+- id: event
+  translation: Evento
+
+- id: location
+  translation: Local
+
+# Filtering
+
+- id: filter_by_type
+  translation: Filtro por tipo
+
+- id: filter_all
+  translation: Todos
+
+# Project details
+
+- id: open_project_site
+  translation: Ir para o site do projeto
+
+# Default node titles
+
+- id: posts
+  translation: Posts
+
+- id: publications
+  translation: Publicações
+
+- id: talks
+  translation: Palestras
+
+- id: projects
+  translation: Projetos
+
+# Error 404
+
+- id: page_not_found
+  translation: Página não encontrada
+
+- id: 404_recommendations
+  translation: Talvez você estivesse procurando por algum desses?

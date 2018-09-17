@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>7 on </title>
+    <link>/en/publication_types/7/</link>
+    <description>Recent content in 7 on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; DES-UFLA 2018</copyright>
+    <lastBuildDate>Fri, 01 Jul 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/en/publication_types/7/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Extensões e aplicações dos modelos de regressão COM-Poisson</title>
+      <link>/en/publication/monograph2016/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/en/publication/monograph2016/</guid>
+      <description>Monografia escrita como parte dos requisitos para obtenção do grau de bacharel em Estatística pela Universidade Federal do Paraná. Orientador Walmes Marques Zeviani.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,153 @@
+# Configuration of LEG Academic Personal Pages (legap-theme)
+# Read the README file!
+
+baseurl = "/"
+languageCode = "pt-br"
+copyright = "&copy; DES-UFLA 2018"
+
+theme = "leg-academic"
+enableEmoji = true
+footnotereturnlinkcontents = "<sup>^</sup>"
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+preserveTaxonomyNames = true
+paginate = 10
+
+disqusShortname = ""
+googleAnalytics = ""
+
+# Default language
+defaultContentLanguage = "pt"
+
+
+[outputs]
+  home = [ "HTML", "CSS", "RSS" ]
+  section = [ "HTML", "RSS" ]
+
+# Configure BlackFriday Markdown rendering.
+
+[blackfriday]
+  hrefTargetBlank = true
+  fractions = false
+  smartypants = true
+
+[params]
+  name = "I Semana da Estatística do DES"
+  organizations = [
+      { name = "SIG-Eventos", url = "https://sig.ufla.br/modulos/publico/eventos/index.php" }
+  ]
+  avatar = "portrait.jpg"  
+  email = "semanades@gmail.com"
+  gravatar = false
+  address = "Universidade Federal de Lavras, Departamento de Estatística."
+  link= "https://github.com/estatisticaufla"
+ 
+  #-------------------------------------------
+  # Customizations
+  color_theme = "forest"
+  font = "default"
+  map = 1
+  map_api_key = ""
+  latitude = "-21.226978"
+  longitude = "-44.978455"
+  zoom = 30
+  date_format = "Jan 2, 2006"
+  time_format = "3:04 PM"
+
+  reading_time = true   # Show estimated reading (posts)?
+  comment_count = true  # Display comment count?
+  section_pager = false # Display next/previous section pager?
+
+  # Enable global LaTeX math rendering?
+  #   If false, you can enable it locally on a per page basis.
+  math = true
+
+  highlight = true
+  highlight_languages = []
+
+ highlightjsVersion = "9.11.0"
+    highlightjsCDN = "//cdn.bootcss.com"
+    highlightjsLang = ["r", "yaml"]
+    highlightjsTheme = "github"
+
+    MathJaxCDN = "//cdn.bootcss.com"
+    MathJaxVersion = "2.7.1"
+
+
+  # Enable native social sharing buttons?
+  sharing = true
+
+  # Link custom CSS and JS assets
+  #   (relative to /static/css and /static/js respectively)
+  custom_css = []
+  custom_js  = []
+
+  
+  #   For multilingual sites, `publication_types` can be copied to each language section at the end of this file and
+  #   translated.
+  publication_types = [
+    'Uncategorized',          # 0
+    'Conference proceedings', # 1
+    'Journal',                # 2
+    'Work in progress',       # 3
+    'Technical report',       # 4
+    'Book',                   # 5
+    'Book chapter',           # 6
+    'Thesis'                  # 7
+  ]
+
+  # Configuration of talk pages.
+  [params.talks]
+    # Show talk time?
+    time = true
+
+  # Configuration of publication pages.
+  [params.publications]
+    # Date format (refer to Go's date format: http://fuckinggodateformat.com )
+    #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
+    date_format = "January, 2006"
+
+  # Configuration of project pages.
+  [params.projects]
+    # List publications and talks related to the project?
+    list_children = true
+
+    # Publication list format.
+    #   0 = Simple
+    #   1 = Detailed
+    #   2 = APA
+    #   3 = MLA
+    publication_format = 3
+
+
+  # Social/Academic Networking
+  
+  [[params.social]]
+    icon = "github"
+    icon_pack = "fa"
+    link = "https://github.com/estatisticaufla"
+
+ [[params.social]]
+    icon = "envelope"
+    icon_pack = "fa"
+    link = "semanades@gmail.com"
+ 
+[params.menus]
+  # Align the main menu to the right of the page? (true/false)
+  align_right = false
+
+
+[[menu.main]]
+  name = "Home"
+  url = "#about"
+  weight = 1
+
+[[menu.main]]
+  name = "Minicursos"
+  url = "#crono"
+  weight = 2
+
+[[menu.main]]
+  name = "Inscrições"
+  url = "#inscrições"
+  weight = 3
+
